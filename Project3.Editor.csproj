@@ -305,7 +305,6 @@
     <Compile Include="Assets\platform-builder-pro\Editor\PlatformSectionEditor.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Balls\Pokemon Ball\MAXFILES.TXT" />
     <None Include="Assets\Balls\Sun\License.txt" />
     <None Include="Assets\Balls\The Sun\Sun\License.txt" />
     <None Include="Assets\Oculus\VR\Editor\AndroidManifest.OVRSubmission.xml" />
@@ -324,11 +323,7 @@
     <None Include="Assets\Oculus\VR\Shaders\OVRColorRampAlpha.shader" />
     <None Include="Assets\Oculus\VR\Shaders\Unlit Crosshair.shader" />
     <None Include="Assets\Sci-fi_platforms\Sci-fi_platforms.txt" />
-    <None Include="Assets\Skyboxes\Stagit\SkyboxEarthPlanets\readme.txt" />
     <None Include="Assets\Skyboxes\ame_nebula\ame_nebula.shader" />
-    <None Include="Assets\Skyboxes\ame_redplanet\ame_redplanet.shader" />
-    <None Include="Assets\Skyboxes\hw_nightsky\hw_nightsky.shader" />
-    <None Include="Assets\Skyboxes\hw_nightsky\license.txt" />
     <None Include="Assets\Skyboxes\mp_5dim\license.txt" />
     <None Include="Assets\Skyboxes\mp_5dim\mp_5dim.shader" />
     <None Include="Assets\Skyboxes\mp_5dim\readme.txt" />
